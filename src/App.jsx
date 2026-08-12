@@ -1,10 +1,10 @@
 import React from 'react'
-import Uyishi from './Components/Uyishi'
+import Uyishi2 from './Components/Uyishi2'
 
 const App = () => {
   return (
     <div>
-      <Uyishi />
+      <Uyishi2 />
     </div>
   )
 }
